@@ -1,4 +1,5 @@
-# Executive Business Performance Dashboard
+# 🚀 Executive Business Performance Dashboard
+
 A dynamic and interactive Power BI dashboard designed to track and analyze key business KPIs across departments. Built using SQL and Power BI, this project demonstrates end-to-end data modeling, transformation, and visualization techniques to deliver impactful business insights.
 
 ---
@@ -37,12 +38,9 @@ This dashboard empowers business stakeholders to:
 
 ---
 
-## 📸 Dashboard Preview
+## 💡 Learning Outcomes
 
-| Overview Page | Regional Drilldown |
-|---------------|--------------------|
-| ![Dashboard Overview](./assets/screenshots/overview.png) | ![Drilldown View](./assets/screenshots/charts.png) |
-
----
-
-## 📁 Folder Structure
+- Built a complete BI solution from data ingestion to visualization
+- Practiced data modeling, relationship management, and row-level security
+- Strengthened SQL and DAX skills for real-time analytics
+- Created professional-grade visuals suitable for client presentations
